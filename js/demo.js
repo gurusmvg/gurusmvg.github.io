@@ -1,13 +1,4 @@
-/**
- * demo.js
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2018, Codrops
- * http://www.codrops.com
- */
+
 {   
     // Check if an element is inside the viewport.
     // from https://codepen.io/bfintal/pen/Ejvgrp.
